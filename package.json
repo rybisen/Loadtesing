@@ -1,0 +1,16 @@
+{
+  "name": "performanceloadtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SURAJ",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.9.0",
+    "loadtest": "^5.0.4",
+    "request": "^2.88.2"
+  }
+}
